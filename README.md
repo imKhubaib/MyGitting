@@ -1,6 +1,6 @@
-﻿\# MyGitting
+﻿# MyGitting
 
-\## Heading two
+## Heading two
 
-\### Heading three
+### Heading three
 
